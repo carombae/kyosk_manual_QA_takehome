@@ -1,0 +1,1 @@
+# kyosk_manual_QA_takehome
